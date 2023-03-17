@@ -2,8 +2,12 @@
     margin: 0;
     padding: 0;
 }
-.sketch-grid{
+#sketch-grid{
     width: 500px;
     height: 500px;
+    border: 1px solid black;
+    display: grid;
+}
+.gridbox{
     border: 1px solid black;
 }
